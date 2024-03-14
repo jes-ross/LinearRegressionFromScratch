@@ -18,5 +18,5 @@ Jupiter Notebook, el repositorio cuenta con tres libretas, una con cada algoritm
 
 # Instalación
 Crea una carpeta en tu ordenador y clona el repositorio
-> 
+> git clone https://github.com/jes-ross/Three_AIs_from_Scratch.git
 
