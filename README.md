@@ -6,12 +6,12 @@
 <li>Purpose</li>
 <li>Requeriments</li>
 <li>Installing</li>
-<li>Explications</li>
+
 
 ## Primera parte / First part
 
 # Proposito del proyecto
-Durante los últimos meses se ha puesto de moda el uso de redes neuronales como ChatGPT, Dall-E, etc. La inteligencia artificial vino para quedarse y reclamar su puesto como avance para la humanidad, en este repositorio, encontraras un algoritmo, sencillo, con la peculiaridad de que en lugar de usar librerías externas como Scikit-Learn y similiares, esta será desarrollada desde cero.
+Durante los últimos meses se ha puesto de moda el uso de redes neuronales como ChatGPT, Dall-E, etc. La inteligencia artificial vino para quedarse y reclamar su puesto como avance para la humanidad, en este repositorio, encontraras un algoritmo, sencillo, con la peculiaridad de que en lugar de usar librerías externas como Scikit-Learn y similiares, esta será desarrollada desde cero. Por comodidad para quien pueda leerlo el codigo estará en ingles.
 
 # Requerimientos
 Jupiter Notebook, el repositorio cuenta con tres libretas, una con cada algoritmo, preferiblemente libreta de Anaconda.
